@@ -11,6 +11,7 @@ set nocompatible "required by some plugins
 set list "display the trails and tabs
 set listchars=tab:→\ ,trail:▫ "using special symbol to display tabs and space at end
 set scrolloff=10 "minimum lines at bottom
+set autochdir
 
 au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif "go to the last position
 
