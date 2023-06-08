@@ -1,6 +1,6 @@
 # my-vimrc
 
-Download and change the file name:
+Download and change the folder name:
 
 `mv my-vimrc .vim`
 
