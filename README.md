@@ -1,0 +1,5 @@
+# my-vimrc
+
+Run:
+
+`PlugInstall`
