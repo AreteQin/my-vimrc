@@ -6,8 +6,9 @@ Download and change the folder name:
 
 Run:
 
+`cd ./.vim`
 `bash install.sh`
 
 Once you are in the vim run:
 
-`PlugInstall`
+`:PlugInstall`
